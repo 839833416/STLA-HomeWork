@@ -1,4 +1,4 @@
-# OrangeHomeWork
+# STLA HomeWork
 - Homework is all you needed. 
 - Regression
 - SVM
